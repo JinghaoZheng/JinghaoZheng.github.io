@@ -21,7 +21,7 @@ repository               : "JinghaoZheng/JinghaoZheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Me!.jpg"
+  avatar           : "images/Me!.jpg"
   name             : "Jinghao Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Be humble in victory and gracious in defeat"
