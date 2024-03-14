@@ -55,15 +55,9 @@ Research experience
     * Wrote the project paper detailing the algorithm design, implementation, and experimental findings.
   * Advisor: Liufang Wang, Senior engineer, Student Innovation Center, Shanghai Jiao Tong University
 
-Skills
-======
-* Programming Languages: Python, C/C++, ROS2, Matlab, Markdown, LaTex
-* Platform: Linux
-* Software: Office, SOLIDWORKS, Origin, Ansys, Keil v5, STM32CubeMX, Arduino
-* Languages: Chinese(native), English(fluent)
-  
 Honors And Awards
 ======
 * Aug. 2023: 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area
 * 2023: 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University
 * 2022: 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University
+* 2019: 2nd Prize of Chinese Physics Olympiad
