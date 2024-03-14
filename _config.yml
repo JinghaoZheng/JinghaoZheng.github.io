@@ -12,7 +12,7 @@ title                    : "Jinghao Zheng/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jinghao Zheng"
 description              : &description "A third year student from Shanghai Jiao Tong University"
-url                      : https://JinghaoZheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinghaozheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JinghaoZheng/JinghaoZheng.github.io"
 
