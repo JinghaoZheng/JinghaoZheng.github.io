@@ -18,7 +18,7 @@ Contact
 * Address: No.800, Dongchuan Road, Shanghai Jiao Tong University, Minhang District, Shanghai City, China
 * Email: zjh20030406 [at] sjtu [dot] edu [dot] cn
 * Phone: (+86)-19817506664
-* Wechat: 19817506664
+* Wechat: z820770061
 
 Education
 ======
