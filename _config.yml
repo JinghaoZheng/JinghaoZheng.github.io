@@ -21,12 +21,12 @@ repository               : "JinghaoZheng/JinghaoZheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jhzheng_photo.png"
   name             : "Jinghao Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Be humble in victory and gracious in defeat"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : # "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "zjh20030406@sjtu.edu.cn" 
 
