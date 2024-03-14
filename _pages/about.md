@@ -49,10 +49,10 @@ Research experience
 
 * Mar. 2023 – Feb.2024: Leader
   * Project Name: Implementation and comparison of gas tracing algorithms for dual robots in confined space
-  * Brief introduction: The project aimed to trace gas leaks efficiently using robotic systems in constrained environments.
+  * Brief introduction: The project aimed to trace gas leaks efficiently using robotic systems in constrained environments.
   * Duties included: 
     * Developed code for Raspberry PI to control the wheel motors of the robotic car, ensuring precise movement in the confined space.
-    * Implemented communication protocols between the robotic car and the upper computer with ROS2, facilitating real-time data exchange.
+    * Implemented communication protocols between the robotic car and the upper computer with ROS2, facilitating real-time data exchange.
     * Wrote the project paper detailing the algorithm design, implementation, and experimental findings.
   * Advisor: Liufang Wang, Senior engineer, Student Innovation Center, Shanghai Jiao Tong University
 
