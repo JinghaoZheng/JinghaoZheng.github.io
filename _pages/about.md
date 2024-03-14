@@ -26,7 +26,7 @@ Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shangh
 B.E. in Automation(Computer Science and Engineering), Minor in Finance
 * Major GPA:3.81/4.3
 * Centesimal grade average:89.12/100
-Core Courses: Calculus ΙΙ(98), Probability and Statistics(99), Linear Algebra(92), Discrete Mathematics(93),
+* Core Courses: Calculus ΙΙ(98), Probability and Statistics(99), Linear Algebra(92), Discrete Mathematics(93),
 Data Structure(90), Principles of Automatic Control(A)(94), Robotics(93), Introductory Pattern Recognition(96)
 
 Research experience
