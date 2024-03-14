@@ -72,3 +72,8 @@ Honors And Awards
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2023
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2022
 * 2nd Prize of Chinese Physics Olympiad(Zhejiang Area), 2019
+
+More about me
+======
+I really enjoy playing basketball, tennis, and watching TV shows sometimes.  
+If you also have the same hobby with me, feel free to contact me! I can't wait playing basketball with different guys!
