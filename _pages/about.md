@@ -22,7 +22,7 @@ Contact
 
 Education
 ======
-Shanghai Jiao Tong University (SJTU), Shanghai, China Sept. 2021 – Jun. 2025(expected)
+Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shanghai, China
 B.E. in Automation(Computer Science and Engineering), Minor in Finance
 * Major GPA:3.81/4.3
 * Centesimal grade average:89.12/100
@@ -49,15 +49,26 @@ Research experience
 
 * Mar. 2023 – Feb.2024: Leader
   * Project Name: Implementation and comparison of gas tracing algorithms for dual robots in confined space
+  * Brief introduction: The project aimed to trace gas leaks efficiently using robotic systems in constrained environments.
   * Duties included: 
     * Developed code for Raspberry PI to control the wheel motors of the robotic car, ensuring precise movement in the confined space.
     * Implemented communication protocols between the robotic car and the upper computer with ROS2, facilitating real-time data exchange.
     * Wrote the project paper detailing the algorithm design, implementation, and experimental findings.
   * Advisor: Liufang Wang, Senior engineer, Student Innovation Center, Shanghai Jiao Tong University
 
+Work experience
+======
+* Dec. 2022 - Dec. 2023: Head of Sports Department, School of Electronic Information and Electrical Engineering(SEIEE) Student Union, Shanghai Jiao Tong University
+  * Hold the "Feng Xing" Cup basketball game
+  * Hold the "Fancy Young Run" activity
+  * Hold the "Roll off" cup esports competition
+* Mar. 2022 - Dec. 2022: Member of Sports Department, SEIEE Student Union, Shanghai Jiao Tong University
+  * Recruit and manage sprinters from the SEIEE in the School sports meeting
+  * Representing SEIEE Student Union in the "Star Week" contest
+  
 Honors And Awards
 ======
-* Aug. 2023: 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area
-* 2023: 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University
-* 2022: 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University
-* 2019: 2nd Prize of Chinese Physics Olympiad
+* 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area, Aug. 2023
+* 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2023
+* 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2022
+* 2nd Prize of Chinese Physics Olympiad, 2019
