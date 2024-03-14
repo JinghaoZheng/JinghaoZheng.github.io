@@ -71,4 +71,4 @@ Honors And Awards
 * 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area, Aug. 2023
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2023
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2022
-* 2nd Prize of Chinese Physics Olympiad, 2019
+* 2nd Prize of Chinese Physics Olympiad(Zhejiang Area), 2019
