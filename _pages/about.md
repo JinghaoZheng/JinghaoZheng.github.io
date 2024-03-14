@@ -31,7 +31,7 @@ Data Structure(90), Principles of Automatic Control(A)(94), Robotics(93), Introd
 
 Research experience
 ======
-* Feb. 2024 – Present: Research Assistant
+* Feb. 2024 – Present
   * Research content: Detect the fairness of the image generation Model based on Diffusion Model by using bias extraction and forgetting
   * Brief introduction: The Diffusion generation bias is extracted and eliminated by concept forgetting algorithm to improve the fairness of the generated model or specify the proportion of the generated concepts.
   * Duties includes:
