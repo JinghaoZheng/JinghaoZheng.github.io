@@ -22,7 +22,7 @@ Contact
 
 Education
 ======
-Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shanghai, China
+Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shanghai, China              
 B.E. in Automation(Computer Science and Engineering), Minor in Finance
 * Major GPA:3.81/4.3
 * Centesimal grade average:89.12/100
