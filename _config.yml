@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jinghao Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Be humble in victory and be gracious in defeat"
+  bio              : "Be humble in victory and gracious in defeat"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -200,16 +200,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
