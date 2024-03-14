@@ -21,7 +21,7 @@ repository               : "JinghaoZheng/JinghaoZheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jhzheng_photo.png"
+  avatar           : "jhzheng_photo_smaller.png"
   name             : "Jinghao Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Shanghai Jiao Tong University"
