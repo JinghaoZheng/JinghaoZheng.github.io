@@ -75,5 +75,5 @@ Honors And Awards
 
 More about me
 ======
-I really enjoy playing basketball, tennis, and watching TV shows sometimes.  
+I really enjoy playing basketball, tennis, and watching TV shows sometimes. And I am a fan of Golden State Warriors!  
 If you also have the same hobby with me, feel free to contact me! I can't wait playing basketball with different guys!
