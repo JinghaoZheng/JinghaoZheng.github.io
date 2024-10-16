@@ -35,7 +35,7 @@ Research Experience
   * Project Name: Fewer Generated Images for Better Augmentation
     * Leveraged the GLIDE, a text-to-image model, with real guidance strategies to diversify the training datasets.
     * Conducted experiments on multiple datasets using upsampling and Diffusion-based data augmentation techniques.
-    * Improved the classification accuracy by 1\% than that without augmentation and training efficiency by 70\% than $2\times$ scale Diffusion-based data augmentation using selectively incorporating generated data.
+    * Improved the classification accuracy by 1\% than that without augmentation and training efficiency by 70\% than $$ 2\times $$ scale Diffusion-based data augmentation using selectively incorporating generated data.
   * Advisor: Baharan Mirzasoleiman, Assistant Professor, Computer Science Department, UCLA
  
 * Mar. 2024 -- June 2024: Co-author
