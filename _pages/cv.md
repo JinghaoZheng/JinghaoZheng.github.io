@@ -15,12 +15,11 @@ Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shangh
 B.E. in Automation(Computer Science and Engineering), Minor in Finance
 * Major GPA:3.82/4.3
 * Centesimal grade average:89.23/100
-* Core Courses: Calculus ΙΙ (98), Probability and Statistics (99), Linear Algebra (92), Discrete Mathematics (93),
-Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (94), Robotics (93)
+* Core Courses: Probability and Statistics (99), Linear Algebra (92), Data Structure (90), Pattern Recognition (96), Machine Learning and Knowledge Discovery (89.5), Robotics (93), Principles of Automatic Control (94)
 
 Publication
 ======
-Z. Huang, X. Cheng, \textbf{J. Zheng,} H. Wang, Z. He, T. Li, and X. Huang. [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement]{https://arxiv.org/abs/2409.19732}. Neural Information Processing Systems (NeurIPS), 2024. (Accepted as a spotlight)
+Z. Huang, X. Cheng, **J. Zheng,** H. Wang, Z. He, T. Li, and X. Huang. [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://arxiv.org/abs/2409.19732). Neural Information Processing Systems (NeurIPS), 2024. (Accepted as a spotlight)
 
 Research Experience
 ======
@@ -29,32 +28,32 @@ Research Experience
     * Leveraged the GLIDE, a text-to-image model, with real guidance strategies to diversify the training datasets.
     * Conducted experiments on multiple datasets using upsampling and Diffusion-based data augmentation techniques.
     * Improved the classification accuracy by 1\% than that without augmentation and training efficiency by 70\% than $2\times$ scale Diffusion-based data augmentation using selectively incorporating generated data.
-  * Advisor: Baharan Mirzasoleiman, Assistant Professor, Computer Science Department, UCLA
+  * Advisor: [**Baharan Mirzasoleiman,**](https://baharanm.github.io/) Assistant Professor, Computer Science Department, UCLA
  
 * Mar. 2024 -- June 2024: Co-author
   * Project Name: Unified Gradient-Based Machine Unlearning (MU) with Remain Geometry Enhancement
     * Proposed using KL divergence on the remaining output distribution, instead of Euclidean distance in vanilla methods, as the manifold metric to prevent deviations in the model output on the remaining set, improving MU performance.
     * Conducted experiments and parameter tuning to compare the performance of our algorithm with other MU methods in image classification and generation across various datasets and models of different architectures.
     * Improved the averaging disparity by 1.8\% on average in random subset forgetting on CIFAR-10 in image classification and the FID by 80 on average in class-wish forgetting on ImageNet in image generation.
-  * Advisor: Xiaolin Huang, Professor, Vice Dean, Department of Automation, SJTU
+  * Advisor: [**Xiaolin Huang,**](http://www.pami.sjtu.edu.cn/xiaolin) Professor, Vice Dean, Department of Automation, SJTU
     
 * Feb. 2024 -- June 2024: Sole Researcher
   * Project Name: Polyp Detection and Segmentation Augmented by Diffusion Model
     * Implemented yolov10 and ResUnet++ as baselines to finish object detection and segmentation on medical images.
     * Proposed using Diffusion-based generative models to generate synthetic data for data augmentation, which improved the mAP0.5@0.95 in the object detection by 1\% and the IoU in the segmentation by 5\%.
-  * Advisor: Manhua Liu, Professor, Artificial Intelligence Research Institute, SJTU
+  * Advisor: **Manhua Liu,** Professor, Artificial Intelligence Research Institute, SJTU
 
 * Oct. 2023 – Mar. 2024: Group Member
   * Project Name: Design of distributed collaborative positioning system
     * Developed motor control code on the STM32 board to precisely manage the yaw and pitch of the camera platform, ensuring accurate angle adjustments.
     * Contributed to the mechanical design of the camera head and designed circuit boards to interface the STM32 board with multiple cameras.
-  * Advisor: Jianping He, Associate Professor, Department of Automation, SJTU
+  * Advisor: **Jianping He,** Associate Professor, Department of Automation, SJTU
 
 * Mar. 2023 – Feb. 2024: Project Leader
   * Project Name: Implementation and comparison of gas tracing algorithms for dual robots in confined space
     * Proposed a bionics-based gas tracing algorithm for dual robots in a confined space and conducted experiments to simulate and validate our algorithm, which improved the success rate by 1.5\% and the search efficiency by 9\%. 
     * Developed control code for Raspberry Pi to ensure precise movement and implemented ROS2 communication protocols for real-time data exchange between the robots and the main computer.
-  * Advisor: Liufang Wang, Senior Engineer, Student Innovation Center, SJTU
+  * Advisor: **Liufang Wang,** Senior Engineer, Student Innovation Center, SJTU
 
 Honors And Awards
 ======
