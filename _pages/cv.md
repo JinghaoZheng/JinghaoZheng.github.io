@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shanghai, China              
-B.E. in Automation(Computer Science and Engineering), Minor in Finance
+B.E. in Automation (Computer Science and Engineering), Minor in Finance
 * Major GPA:3.82/4.3
 * Centesimal grade average:89.23/100
 * Core Courses: Probability and Statistics (99), Linear Algebra (92), Data Structure (90), Pattern Recognition (96), Machine Learning and Knowledge Discovery (89.5), Robotics (93), Principles of Automatic Control (94)
@@ -53,11 +53,11 @@ Honors And Awards
 ======
 * 3rd Prize of TI Cup National Undergraduate Electronic Design Contest Shanghai area, Aug. 2023
 * 3rd Prize of Academic Scholarship of Shanghai Jiao Tong University, 2022 & 2023
-* 2nd Prize of Chinese Physics Olympiad(Zhejiang Area), 2019
+* 2nd Prize of Chinese Physics Olympiad Zhejiang Area, 2019
 
 Skills
 ======
 * Programming Languages: Python, C/C++, ROS2, Matlab, Markdown, LaTex
-* Languages: Chinese(native), English(fluent)
-* Leadership Experience: Head of Sports Department, School of Electronic Information and Electrical Engineering(SEIEE) Student Union, Shanghai Jiao Tong University
+* Languages: Chinese (Native), English (Proficient)
+* Leadership Experience: Head of Sports Department, School of Electronic Information and Electrical Engineering (SEIEE) Student Union, Shanghai Jiao Tong University
   
