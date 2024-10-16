@@ -11,7 +11,7 @@ I'm a fourth-year undergraduate student from [Department of Automation](https://
 
 I am very fortunate to be advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin) of Shanghai Jiao Tong University Institute of Image Processing and Pattern Recognition from Department of Automation, Shanghai Jiao Tong University.
 
-You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/jhzheng_CV.pdf).
+You can find my CV here: [Jinghao Zheng's Curriculum Vitae](../assets/CV_zjh_1016.pdf).
 
 Contact
 ======
