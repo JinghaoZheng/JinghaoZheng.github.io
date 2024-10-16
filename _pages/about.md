@@ -29,6 +29,10 @@ B.E. in Automation(Computer Science and Engineering), Minor in Finance
 * Core Courses: Calculus ΙΙ (98), Probability and Statistics (99), Linear Algebra (92), Discrete Mathematics (93),
 Data Structure (90), Pattern Recognition (96), Principles of Automatic Control (94), Robotics (93)
 
+Publication
+======
+Z. Huang, X. Cheng, **J. Zheng,** H. Wang, Z. He, T. Li, and X. Huang. [Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement](https://arxiv.org/abs/2409.19732). Neural Information Processing Systems (NeurIPS), 2024. (Accepted as a spotlight)
+
 Research Experience
 ======
 * July 2024 -- Present: Research Assistant
